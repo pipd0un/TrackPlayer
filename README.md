@@ -9,4 +9,5 @@ Audio recording and saving them to eeproms to play individually
 # SETUP
 ![project setup](https://github.com/pipd0un/TrackPlayer/blob/main/INTRO/intro.png)
 
-#Thanks a lot to Aykut for helping me in this way.
+#Credit 
+Thanks a lot to Aykut for helping me in this way.
